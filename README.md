@@ -3,11 +3,10 @@
 Flutter Face Detection with Firebase ML Kit and CustomPainter.  
 Read the article on [Medium]()  
 
-<img src="shots/no_image.jpg"><img src="shots/found_face.jpg"><br />
+<img src="shots/found_face.jpg"><br />
 
 Made with :heart_eyes: by [Akora-IngDKB](https://github.com/Akora-IngDKB).  
-Follow me on [Twitter](https://twitter.com/AkoraIng_DKB)   
-Please show some :heart: by giving this repo as :star: as I will be updating it with time.  
+Follow me on [Twitter](https://twitter.com/AkoraIng_DKB)    
 
 ## Getting Started
 
