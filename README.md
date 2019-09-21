@@ -1,4 +1,5 @@
-# Flutter Face Detection 
+# Flutter Face Detection  
+![Image](shots/logo.png)
 
 Flutter Face Detection with Firebase ML Kit and CustomPainter.  
 Read the article on [Medium]()  
